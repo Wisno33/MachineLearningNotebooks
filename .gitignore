@@ -1,0 +1,16 @@
+# Pulsar stars dataset.
+#PulsarStars/pulsar_stars.csv
+
+# Malaria detection dataset and preprocessed images.
+MalariaDetection/cell_images/*
+MalariaDetection/Preprocessed_Images/*
+
+# Question answers dataset and preprocessed text.
+#QuestionAnswer/question_answer/*
+#QuestionAnswer/Preprocessed_Text/*
+
+#GLOVE file.
+glove.840B.300d.txt
+
+# Mac OS dir file.
+.DS_Store
